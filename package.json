@@ -44,7 +44,7 @@
     "express-handlebars": "^6.0.2",
     "ffmpeg-static": "^4.4.1",
     "fluent-ffmpeg": "^2.1.2",
-    "jquery": "^3.6.0",
+    "jquery": "^3.6.1",
     "ytdl-core": "^4.10.0"
   },
   "devDependencies": {
